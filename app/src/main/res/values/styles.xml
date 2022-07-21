@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#DB1B60</color>
+
+    <color name="clickFont">#B8B8B8</color>
+    <color name="clickBack">#424545</color>
+</resources>

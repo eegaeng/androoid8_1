@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <corners
+        android:radius="20dp"
+        />
+
+    <item android:state_pressed="true">
+    <shape android:shape="rectangle">
+        <corners android:radius="50sp"/>
+        <solid android:color="#ff0000"/>
+    </shape>
+</item>
+
+
+    //일반 버튼 상태
+<item>
+<shape android:shape="rectangle">
+    <corners android:radius="50sp"/>
+    <solid android:color="#00ff00"/>
+</shape>
+</item>
+
+-->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_foucused="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="20sp"/>
+        </shape>
+    </item>
+
+//일반버튼
+    <item >
+        <shape android:shape="rectangle">
+            <corners android:radius="20sp"/>
+        </shape>
+    </item>
+</selector>
